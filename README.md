@@ -1,16 +1,13 @@
-# title(){return this.options.title||this.options.name}
+# Chrome Extension for Bookmarking Tabs
 
-## Supporting Scrimba
+This is the project I developed while attending the Javascript course on Scrimba
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+![Browser Extension Preview](./preview.png "a title")
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+## About Scrimba
 
-	It would also mean the world to us if you share the courses.  
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
 
-Happy Coding!
+- [Some Scrimba courses](https://scrimba.com/allcourses)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
